@@ -1,64 +1,33 @@
 {
   "main": {
-    "id": "09af4fd4ccd7458a",
+    "id": "c43020da8c8d79a9",
     "type": "split",
     "children": [
       {
-        "id": "70a1811cea72b80c",
+        "id": "01d22da05af42555",
         "type": "tabs",
         "children": [
           {
-            "id": "005a423d51298e93",
+            "id": "6a14722002c2b399",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "c38e66557d1a38f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Концепты/Практика.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Практика"
-            }
-          },
-          {
-            "id": "4401b98702fa5c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Концепты/Синхронистичность.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Синхронистичность"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a5a8977ea42a6ee0",
+    "id": "9926d9e1681ab28a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "617e9314a15db54d",
+        "id": "3d468f895210b034",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -71,16 +40,16 @@
         }
       },
       {
-        "id": "10c894bbe4a43d46",
+        "id": "d5fb534aa7c0f5c1",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
             "query": "",
             "matchingCase": false,
-            "explainSearch": true,
-            "collapseAll": true,
-            "extraContext": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
@@ -88,7 +57,7 @@
         }
       },
       {
-        "id": "f57e7accdd50d2bd",
+        "id": "04066c72263b6895",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -99,11 +68,11 @@
             "searchQuery": ""
           },
           "icon": "lucide-tags",
-          "title": "Tags"
+          "title": "Теги"
         }
       },
       {
-        "id": "5fca462cbfa3eb66",
+        "id": "bf2e2cb564b1d4a5",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -113,33 +82,32 @@
             "searchQuery": ""
           },
           "icon": "lucide-archive",
-          "title": "All properties"
+          "title": "Все свойства"
         }
       },
       {
-        "id": "2a85536e93438f08",
+        "id": "ef05d9340791758d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {},
           "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "title": "Закладки"
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "a74ffccb2c2e4107",
+    "id": "a1d0a7a4ac9ea701",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7a81c64ca10e705d",
+        "id": "2580b76d82eb9e01",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03_Концепты/Свобода.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +121,7 @@
         }
       },
       {
-        "id": "43da95abae2aaf67",
+        "id": "f8b0f9693d276537",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -162,11 +130,11 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
-          "title": "Outgoing links"
+          "title": "Исходящие ссылки"
         }
       },
       {
-        "id": "69277d920b051acc",
+        "id": "0a3e11d215292598",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -180,27 +148,7 @@
         }
       },
       {
-        "id": "f9614b2a1e5dae1b",
-        "type": "leaf",
-        "state": {
-          "type": "smart-connections-view",
-          "state": {},
-          "icon": "smart-connections",
-          "title": "Connections"
-        }
-      },
-      {
-        "id": "7017d90b8527caf3",
-        "type": "leaf",
-        "state": {
-          "type": "smart-lookup-view",
-          "state": {},
-          "icon": "smart-lookup",
-          "title": "Lookup"
-        }
-      },
-      {
-        "id": "e5af62870b586a1a",
+        "id": "fbf70f0dce8eaa90",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -210,10 +158,13 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -221,46 +172,40 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4401b98702fa5c4c",
+  "active": "6a14722002c2b399",
   "lastOpenFiles": [
+    "01_Инсайты",
     "check_filenames.py",
-    "/check_filenames.py",
     "04_Журнал/2024-05-21 Рай как Повышение Сложности.md",
-    "03_Концепты/Свобода.md",
-    "03_Концепты/Кибернетика.md",
-    "/04_Журнал/2024-05-21 Рай как Повышение Сложности.md",
-    "/04_Журнал",
-    "/03_Концепты/Кибернетика.md",
-    "/03_Концепты/000_TEST_FILE.md",
-    "03_Концепты/000_TEST_FILE.md",
-    "/03_Концепты",
-    "02_ТОП Посты/Хватит Быть NPC.md",
-    "03_Концепты/Наблюдатель.md",
-    "Синхроничность.md",
-    "03_Концепты/Матрица.md",
-    "02_ТОП Посты/00_Карта_Реальности.md",
-    "03_Концепты/Бог.md",
     "04_Журнал/12.02.md",
-    "03_Концепты/Атман.md",
-    "03_Концепты/Намерение.md",
-    "03_Концепты/Хаос.md",
     "04_Журнал/11.02.md",
-    "03_Концепты/Практика.md",
-    "03_Концепты/Здесь и Сейчас.md",
-    "03_Концепты/Поток.md",
-    "03_Концепты/ОМ.md",
-    "03_Концепты/Воля.md",
-    "03_Концепты/Энтропия.md",
     "03_Концепты/Эффект наблюдателя.md",
-    "https:/github.com/solovarov90/Technomage.git",
-    "https:/github.com/solovarov90",
-    "https:/github.com",
-    "https:"
+    "03_Концепты/Эффект бабочки.md",
+    "03_Концепты/Энтропия.md",
+    "03_Концепты/Эгрегор.md",
+    "03_Концепты/Эго.md",
+    "03_Концепты/Эволюция.md",
+    "03_Концепты/Число Пи.md",
+    "03_Концепты/Черная дыра.md",
+    "03_Концепты/Хаос.md",
+    "03_Концепты/Упанишады.md",
+    "03_Концепты/У-Вэй.md",
+    "03_Концепты/Теория струн.md",
+    "03_Концепты/Теория симуляции.md",
+    "03_Концепты/Тень.md",
+    "03_Концепты/Тат Твам Аси.md",
+    "03_Концепты/Сценарий.md",
+    "03_Концепты/Судьба.md",
+    "03_Концепты/Страдание.md",
+    "03_Концепты/Сопротивление.md",
+    "03_Концепты/Скорость света.md",
+    "03_Концепты/Система.md",
+    "03_Концепты/Синхронистичность.md",
+    "04_Журнал",
+    "03_Концепты",
+    "02_ТОП Посты"
   ]
 }
