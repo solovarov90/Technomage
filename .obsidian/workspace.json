@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "1ac52e8904011dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fd8fafd35b51c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d185aa54e47780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Концепты/Волновая функция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Волновая функция"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "802d2a9cd9f94395",
+    "type": "split",
+    "children": [
+      {
+        "id": "40781f982ebed7f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e49de8d504691e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2cf39b99458e117e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b206c07a91c9ec5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b19801dc02dbd16",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1af5ca964f7e1ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4543d60b153e044",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Концепты/Волновая функция.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Волновая функция"
+            }
+          },
+          {
+            "id": "c180a0e553ba3c71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Концепты/Волновая функция.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Волновая функция"
+            }
+          },
+          {
+            "id": "90ccae1ba459b7ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e06218cd74db335e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8890817350e6ec2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_Концепты/Волновая функция.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Волновая функция"
+            }
+          },
+          {
+            "id": "44a68997955df7cd",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "c00d603db959cb18",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
+    }
+  },
+  "active": "14d185aa54e47780",
+  "lastOpenFiles": [
+    "03_Концепты/Эффект наблюдателя.md",
+    "02_ТОП Посты/Квантовая магия желаний.md",
+    "02_ТОП Посты/Апгрейд мозга NAD.md",
+    "03_Концепты/Система.md",
+    "03_Концепты/Упанишады.md",
+    "03_Концепты/Пространство-время.md",
+    "Мантры как Промпты.md",
+    "03_Концепты/Корпускулярно-волновой дуализм.md",
+    "03_Концепты/Информация.md",
+    "03_Концепты/Теория струн.md",
+    "03_Концепты/Волновая функция.md",
+    "03_Концепты/Многомировая интерпретация.md",
+    "03_Концепты/Скорость света.md",
+    "02_ТОП Посты/00_Карта_Реальности.md",
+    "03_Концепты/Нада Брахма.md",
+    "03_Концепты/Число Пи.md",
+    "03_Концепты/Синхронистичность.md",
+    "02_ТОП Посты/11 11 и 22 22 знаки.md",
+    "Синхроничность.md",
+    "02_ТОП Посты/Выбор реальности.md",
+    "01_Идеи/Пример идеи.md",
+    "03_Концепты/Длина Планка.md",
+    "03_Концепты/Атман.md",
+    "02_ТОП Посты/Математика как исходный код.md",
+    "02_ТОП Посты/Квантовое бессмертие.md",
+    "02_ТОП Посты/Наука и Мистика (Синтез).md",
+    "04_Журнал",
+    "03_Концепты",
+    "02_ТОП Посты",
+    "01_Идеи"
+  ]
+}

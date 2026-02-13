@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "09af4fd4ccd7458a",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a1811cea72b80c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "005a423d51298e93",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "c38e66557d1a38f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Концепты/Практика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практика"
+            }
+          },
+          {
+            "id": "4401b98702fa5c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Концепты/Свобода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Свобода"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5a8977ea42a6ee0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "617e9314a15db54d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "10c894bbe4a43d46",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#ready_for_production",
+            "matchingCase": false,
+            "explainSearch": true,
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "f57e7accdd50d2bd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5fca462cbfa3eb66",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "2a85536e93438f08",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "a74ffccb2c2e4107",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7a81c64ca10e705d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "03_Концепты/Свобода.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "43da95abae2aaf67",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "69277d920b051acc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "f9614b2a1e5dae1b",
+        "type": "leaf",
+        "state": {
+          "type": "smart-connections-view",
+          "state": {},
+          "icon": "smart-connections",
+          "title": "Connections"
+        }
+      },
+      {
+        "id": "7017d90b8527caf3",
+        "type": "leaf",
+        "state": {
+          "type": "smart-lookup-view",
+          "state": {},
+          "icon": "smart-lookup",
+          "title": "Lookup"
+        }
+      },
+      {
+        "id": "e5af62870b586a1a",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4401b98702fa5c4c",
+  "lastOpenFiles": [
+    "03_Концепты/Свобода.md",
+    "02_ТОП Посты/Хватит Быть NPC.md",
+    "03_Концепты/Наблюдатель.md",
+    "Синхроничность.md",
+    "03_Концепты/Матрица.md",
+    "02_ТОП Посты/00_Карта_Реальности.md",
+    "03_Концепты/Бог.md",
+    "04_Журнал/12.02.md",
+    "03_Концепты/Атман.md",
+    "03_Концепты/Намерение.md",
+    "03_Концепты/Хаос.md",
+    "04_Журнал/11.02.md",
+    "03_Концепты/Практика.md",
+    "03_Концепты/Здесь и Сейчас.md",
+    "03_Концепты/Поток.md",
+    "03_Концепты/ОМ.md",
+    "03_Концепты/Воля.md",
+    "03_Концепты/Энтропия.md",
+    "03_Концепты/Эффект наблюдателя.md",
+    "03_Концепты/Тат Твам Аси.md",
+    "03_Концепты/Внутренний диалог.md",
+    "03_Концепты/Путь Героя.md",
+    "03_Концепты/Зона комфорта.md",
+    "03_Концепты/Выбор.md",
+    "02_ТОП Посты/Математический платонизм.md",
+    "https:/github.com/solovarov90/Technomage.git",
+    "https:/github.com/solovarov90",
+    "https:/github.com",
+    "https:",
+    "03_Концепты/Эгрегор.md"
+  ]
+}
