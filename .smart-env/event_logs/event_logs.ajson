@@ -38,3 +38,6 @@
 "event_logs:sources:opened": {"key":"sources:opened","ct":306,"first_at":1770719179272,"last_at":1770988864082,"class_name":"EventLog","event_sources":{"active-leaf-change":302,"open_source method":3,"file-open":1}},
 "event_logs:sources:imported": {"key":"sources:imported","ct":1335,"first_at":1770718912311,"last_at":1770988877086,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":1455,"first_at":1770718918441,"last_at":1770988877244,"class_name":"EventLog"},
+"event_logs:sources:modified": {"key":"sources:modified","ct":3,"first_at":1770988817744,"last_at":1770989324314,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":3}},
+"event_logs:sources:created": {"key":"sources:created","ct":93,"first_at":1770719725571,"last_at":1770989323916,"class_name":"EventLog","event_sources":{"obsidian:vault.create":93}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":1336,"first_at":1770718912311,"last_at":1770989337877,"class_name":"EventLog"},
