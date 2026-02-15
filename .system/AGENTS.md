@@ -207,6 +207,7 @@ Think of it like a human reviewing their journal and updating their mental model
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
-## Make It Yours
-
-This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+## Проблема с записью в журнал
+Чтобы избежать потери данных, всегда используй следующую последовательность действий:
+1.  **Прочитать текущее содержимое** журнала (с помощью `read`).
+2.  **Добавить новую запись в конец**. Не используй `write` напрямую, чтобы не перезаписать журнал!
