@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Мысль",
+  "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -60,6 +60,6 @@
   "repelStrength": 7.6484653024911,
   "linkStrength": 0.982401023131673,
   "linkDistance": 257,
-  "scale": 0.6001804276875976,
+  "scale": 0.43211301051773565,
   "close": true
 }
