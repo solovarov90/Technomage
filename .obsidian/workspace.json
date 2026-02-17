@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "власть",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +210,8 @@
   },
   "active": "224e152153855088",
   "lastOpenFiles": [
-    "Власть.md",
     "03_Концепты/Власть.md",
+    "Власть.md",
     "00_Карта_Узла.md",
     "03_Концепты/Матрица.md",
     "Без названия.canvas",
