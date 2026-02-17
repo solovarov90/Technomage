@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fd8fafd35b51c5f",
+        "id": "3db081a589545226",
         "type": "tabs",
         "children": [
           {
-            "id": "14d185aa54e47780",
+            "id": "224e152153855088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Власть.md",
+                "file": "03_Концепты/Власть.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "власть",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14d185aa54e47780",
+  "active": "224e152153855088",
   "lastOpenFiles": [
-    "00_Карта_Узла.md",
     "Власть.md",
+    "03_Концепты/Власть.md",
+    "00_Карта_Узла.md",
     "03_Концепты/Матрица.md",
     "Без названия.canvas",
     "03_Концепты/Наблюдатель.md",
@@ -235,7 +237,6 @@
     "03_Концепты/Интуитивное Осознание Руководство Наблюдателя.md",
     "03_Концепты/Инженерная_Психосоматика.md",
     "03_Концепты/Заземление_Намерения.md",
-    "03_Концепты/Биохакинг_Сознания.md",
     "01_Инбокс",
     "01_Инсайты",
     "check_filenames.py",
