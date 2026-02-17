@@ -8,58 +8,51 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"02\" OR path:\"00_\" OR path:\"01_\" OR tag:#инсайт OR tag:#практика",
+      "query": "tag:#физика OR tag:#наука OR tag:#IT OR tag:#математика OR tag:#квантовая_физика OR path:\"03_Концепты/Квантовый Атман.md\"",
       "color": {
         "a": 1,
-        "rgb": 65280
+        "rgb": 10555647
       }
     },
     {
-      "query": "tag:#эзотерика OR tag:#магия OR tag:#веды OR path:Мантры OR path:ОМ",
+      "query": "tag:#эзотерика OR tag:#магия OR tag:#веды OR tag:#атман OR path:\"03_Концепты/Атман.md\" OR path:\"03_Концепты/Бог.md\" OR path:\"03_Концепты/Тат Твам Аси.md\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16766720
       }
     },
     {
-      "query": "  tag:#физика OR tag:#IT OR tag:#ИИ OR tag:#математика OR path:\"Теория симуляции\"",
-      "color": {
-        "a": 1,
-        "rgb": 8009156
-      }
-    },
-    {
-      "query": "tag:#психология OR tag:#ego OR tag:#баг OR path:Тень OR path:Страдание",
+      "query": "tag:#практика OR tag:#баг OR tag:#протокол OR path:\"03_Концепты/Эго.md\" OR path:\"03_Концепты/Тень.md\" OR path:\"Власть.md\"",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "tag:#карма OR tag:#эволюция OR tag:#поток OR path:\"Путь Героя\"",
+      "query": "tag:#пост OR path:\"02_ТОП Посты\" OR path:\"00_Карта_Узла.md\" OR path:\"00_Dashboard.md\"",
       "color": {
         "a": 1,
-        "rgb": 255
+        "rgb": 65280
       }
     },
     {
-      "query": "tag:#ядро OR path:Бог OR path:Атман OR path:\"Тат Твам Аси\"",
+      "query": "path:\"03_Концепты\"",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16777215
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.35973921263345,
-  "lineSizeMultiplier": 1.91284197064057,
+  "nodeSizeMultiplier": 1.4,
+  "lineSizeMultiplier": 2.0,
   "collapse-forces": true,
-  "centerStrength": 0.220640569395018,
-  "repelStrength": 7.6484653024911,
-  "linkStrength": 0.982401023131673,
-  "linkDistance": 257,
-  "scale": 0.8435328353100608,
+  "centerStrength": 0.22,
+  "repelStrength": 7.65,
+  "linkStrength": 0.98,
+  "linkDistance": 250,
+  "scale": 1.0,
   "close": true
 }
