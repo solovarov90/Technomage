@@ -109,9 +109,9 @@
           "type": "backlink",
           "state": {
             "collapseAll": false,
-            "extraContext": false,
+            "extraContext": true,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
@@ -167,6 +167,10 @@
   },
   "active": "c4266cc930012db3",
   "lastOpenFiles": [
+    "00_Карта_Узла.md",
+    "03_Концепты/Квантовый Интерфейс.md",
+    "Холст.canvas",
+    "03_Концепты/Эго.md",
     "Эмоции.md",
     "Целостность.md",
     "Манифест Техномага.md",
@@ -193,9 +197,6 @@
     "04_Журнал/2024-05-21 Алгоритм Творения.md",
     "04_Журнал/12.02.md",
     "04_Журнал/11.02.md",
-    "03_Концепты/Эффект наблюдателя.md",
-    "03_Концепты/Эффект бабочки.md",
-    "03_Концепты/Энтропия.md",
     "04_Журнал",
     "03_Концепты",
     "02_ТОП Посты",
