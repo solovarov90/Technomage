@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"2a43ea923e0246ab","x":404,"y":187,"width":400,"height":400,"type":"file","file":"03_Концепты/Матрица.md"},
-		{"id":"0aae7856bebca002","x":-280,"y":-220,"width":400,"height":400,"type":"file","file":"03_Концепты/Наблюдатель.md"}
+		{"id":"0aae7856bebca002","x":-280,"y":-220,"width":400,"height":400,"type":"file","file":"03_Концепты/Наблюдатель.md"},
+		{"id":"2a43ea923e0246ab","x":180,"y":-220,"width":400,"height":400,"type":"file","file":"03_Концепты/Матрица.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"029468968de6ca4b","fromNode":"0aae7856bebca002","fromSide":"top","toNode":"2a43ea923e0246ab","toSide":"top"}
+	]
 }
