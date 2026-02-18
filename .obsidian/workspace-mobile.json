@@ -11,14 +11,10 @@
             "id": "f86b08c4a058b8e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Концепты/Наблюдатель.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Наблюдатель"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -112,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03_Концепты/Наблюдатель.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6065e2b317818bc",
+  "active": "f86b08c4a058b8e5",
   "lastOpenFiles": [
+    "03_Концепты/Наблюдатель.md",
     "02_ТОП Посты/Математический платонизм.md",
     "Власть.md",
     "03_Концепты/Антихрупкость.md",
@@ -197,7 +193,6 @@
     "/03_Концепты/Информация.md",
     "/03_Концепты/Длина Планка.md",
     "/03_Концепты/Волновая функция.md",
-    "/03_Концепты/Большой взрыв.md",
     "/03_Концепты",
     "/04_Журнал",
     "/02_ТОП Посты",
