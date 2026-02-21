@@ -25,10 +25,14 @@
             "id": "542ef5eec9c5dbdb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "03_Концепты/Три_Принципа_Творения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Три_Принципа_Творения"
             }
           }
         ],
@@ -123,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "/03_Концепты/Космические_Тёмные_Века.md",
+            "file": "03_Концепты/Три_Принципа_Творения.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,14 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "542ef5eec9c5dbdb",
+  "active": "c6065e2b317818bc",
   "lastOpenFiles": [
+    "03_Концепты/Тень.md",
     "03_Концепты/Сингулярность.md",
     "03_Концепты/Три_Принципа_Творения.md",
     "/03_Концепты/Три_Принципа_Творения.md",
     "/00_Карта_Узла.md",
     "03_Концепты/Триада_Фаджина.md",
-    "03_Концепты/Тень.md",
     "/03_Концепты/Тень.md",
     "/03_Концепты",
     "/03_Концепты/Реонизация_Сознания.md",
