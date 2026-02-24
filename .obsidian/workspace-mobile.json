@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_ТОП Посты/Новая_Сборка/Прошивка_Золушки.md",
+                "file": "02_ТОП Посты/Новая_Сборка/Мозги_Больцмана.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прошивка_Золушки"
+              "title": "Мозги_Больцмана"
             }
           }
         ],
@@ -177,11 +177,16 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "542ef5eec9c5dbdb",
   "lastOpenFiles": [
+    "02_ТОП Посты/Новая_Сборка/Прошивка_Золушки.md",
     "/02_ТОП Посты/Новая_Сборка/Мозги_Больцмана.md",
     "02_ТОП Посты/Новая_Сборка/Мозги_Больцмана.md",
     "/02_ТОП Посты/Новая_Сборка",
@@ -207,7 +212,6 @@
     "/02_ТОП Посты/Новая_Сборка/Бинарный_код_Счастья.md",
     "/02_ТОП Посты/Новая_Сборка/Апгрейд_Утра.md",
     "03_Концепты/Воля.md",
-    "02_ТОП Посты/Новая_Сборка/Прошивка_Золушки.md",
     "02_ТОП Посты/Сборка_3/Протоколы Кофе.md",
     "02_ТОП Посты/Сборка_3/Квантовый ластик.md",
     "/02_ТОП Посты/Сборка_3",
