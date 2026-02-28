@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Концепты/Project_Vale_Break.md",
+                "file": "01_Инбокс/Spiritual_Temple_of_God.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project_Vale_Break"
-            }
-          },
-          {
-            "id": "542ef5eec9c5dbdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_TOP Posts/2026-02-25/Ten_kak_Demon_v5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ten_kak_Demon_v5"
+              "title": "Spiritual_Temple_of_God"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02_TOP Posts/2026-02-25/Ten_kak_Demon_v5.md",
+            "file": "01_Инбокс/Spiritual_Temple_of_God.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,15 +170,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "542ef5eec9c5dbdb",
+  "active": "f86b08c4a058b8e5",
   "lastOpenFiles": [
+    "01_Инбокс/Quantum_Transition_Stories.md",
+    "02_ТОП Посты/2026-02-25/Energeticheskiy_Denezhnyy_Zavet.md",
+    "03_Концепты/Project_Vale_Break.md",
+    "/00_Карта_Узла.md",
+    "/02_ТОП Посты/2026-02-25/Energeticheskiy_Denezhnyy_Zavet.md",
+    "02_TOP Posts/2026-02-25/Ten_kak_Demon_v5.md",
+    "/02_ТОП Посты/2026-02-25",
+    "02_ТОП Посты/2026-02-25",
+    "/02_ТОП Посты",
+    "/02_TOP Posts/2026-02-25",
+    "/02_TOP Posts",
     "02_TOP Posts/2026-02-25/Ten_kak_Demon_v7.md",
     "02_TOP Posts/2026-02-25/Ten_kak_Demon_v8.md",
     "03_Концепты/Суверенитет_Наблюдателя.md",
     "02_TOP Posts/2026-02-25/Hroniki_Akashi_vs_Istoriya_v2.md",
     "02_TOP Posts/2026-02-25/Energeticheskiy_Denezhnyy_Zavet.md",
     "02_TOP Posts/2026-02-25/Ten_kak_Demon_v6.md",
-    "02_TOP Posts/2026-02-25/Ten_kak_Demon_v5.md",
     "02_TOP Posts/2026-02-25/Ten_kak_Demon_v4.md",
     "02_TOP Posts/2026-02-25/Ten_kak_Demon_v3.md",
     "02_TOP Posts/2026-02-25/Ten_kak_Demon_v2.md",
@@ -208,21 +203,11 @@
     "02_TOP Posts/2026-02-25/Hroniki_Akashi_vs_Istoriya_v11.md",
     "02_TOP Posts/2026-02-25/Hroniki_Akashi_vs_Istoriya_v10.md",
     "02_TOP Posts/2026-02-25/Hroniki_Akashi_vs_Istoriya.md",
-    "02_TOP Posts/2026-02-25/Energeticheskiy_Denezhnyy_Zavet_v6.md",
-    "02_TOP Posts/2026-02-25/Energeticheskiy_Denezhnyy_Zavet_v5.md",
-    "02_TOP Posts/2026-02-25/Energeticheskiy_Denezhnyy_Zavet_v4.md",
-    "02_TOP Posts/2026-02-25/Energeticheskiy_Denezhnyy_Zavet_v3.md",
-    "02_TOP Posts/2026-02-25/Energeticheskiy_Denezhnyy_Zavet_v2.md",
     "/03_Концепты",
     "02_TOP Posts/2026-02-25",
     "02_TOP Posts",
-    "/02_TOP Posts/2026-02-25",
-    "/02_TOP Posts",
     "/02_ТОП Посты/Новая_Сборка",
-    "/02_ТОП Посты",
     "/04_Журнал",
-    "/01_Инбокс",
-    "/02_ТОП Посты/Сборка_3",
     "Холст.canvas",
     "Без названия.canvas"
   ]
