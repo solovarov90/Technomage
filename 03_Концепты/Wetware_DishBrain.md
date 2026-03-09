@@ -1,7 +1,7 @@
 ---
 title: Wetware & DishBrain (Биологический Компьютер)
 created: 2026-03-09
-tags: [wetware, cortical_labs, dishbrain, entropy, neurons, bio-computing]
+tags: [ветвер, нейроны, энтропия, биокомпьютеры, сознание]
 ---
 
 # КОНЦЕПТ: Wetware & DishBrain (Биологический Компьютер) 🧠💻

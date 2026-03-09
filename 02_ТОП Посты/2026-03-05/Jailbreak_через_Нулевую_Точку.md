@@ -1,7 +1,7 @@
 ---
 title: Jailbreak через Нулевую Точку (Бентов-синтез)
 created: 2026-03-05
-tags: [itzhak_bentov, zero_point, consciousness, physics, synthesis, jailbreak]
+tags: [ицхак_бентов, нулевая_точка, сознание, физика, синтез, джейлбрейк]
 ---
 
 # ПОСТ-КОНЦЕПТ: Jailbreak через Нулевую Точку 🕒🧿
