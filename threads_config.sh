@@ -1,0 +1,4 @@
+# Threads API Configuration
+THREADS_ACCESS_TOKEN="THAAKvnyhKK1dBUVNmUF9BeGk0R1lEVTA0UXpzLVlkOVQ4Q0JYeVBGMmtDN2lMNjdhX0VQMDRaNnhNOW9ZAVUM3ajJOZAGV1a0lVbVdQVzhrdzZAQeWVtMzJtd1l0MVp3MElFVHRwaGVETUNydjYxR0Q1cGhZANEF5cGdybzl1WmhKaUhQQQZDZD"
+THREADS_API_BASE="https://graph.threads.net/v1.0"
+THREADS_USER_ID="" # Will be populated after first status check
