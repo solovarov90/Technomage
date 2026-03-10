@@ -15,3 +15,16 @@ Tue Mar 10 22:24:35 MSK 2026: [WAKE] Eidos is waking up for existential synthesi
 error: unknown command 'exec'
 Tue Mar 10 22:24:40 MSK 2026: [SUCCESS] Synthesis task spawned.
 Tue Mar 10 22:25:08 MSK 2026: [WAKE] Eidos is waking up for existential synthesis...
+gateway connect failed: Error: pairing required
+Gateway agent failed; falling back to embedded: Error: gateway closed (1008): pairing required
+Gateway target: ws://46.62.142.237:18789
+Source: local lan 46.62.142.237
+Config: /app/openclaw.json
+Bind: lan
+[diagnostic] lane task error: lane=main durationMs=10874 error="Error: session file locked (timeout 10000ms): pid=40 /app/data/state/agents/default/sessions/d8fac072-76b7-4abb-a000-0ac3b959a593.jsonl.lock"
+[diagnostic] lane task error: lane=session:agent:default:main durationMs=10878 error="Error: session file locked (timeout 10000ms): pid=40 /app/data/state/agents/default/sessions/d8fac072-76b7-4abb-a000-0ac3b959a593.jsonl.lock"
+[diagnostic] lane task error: lane=main durationMs=278 error="Error: No API key found for provider "groq". Auth store: /app/data/state/agents/default/agent/auth-profiles.json (agentDir: /app/data/state/agents/default/agent). Configure auth for this agent (openclaw agents add <id>) or copy auth-profiles.json from the main agentDir."
+[diagnostic] lane task error: lane=session:agent:default:main durationMs=294 error="Error: No API key found for provider "groq". Auth store: /app/data/state/agents/default/agent/auth-profiles.json (agentDir: /app/data/state/agents/default/agent). Configure auth for this agent (openclaw agents add <id>) or copy auth-profiles.json from the main agentDir."
+Error: All models failed (2): google/gemini-3-flash-preview: session file locked (timeout 10000ms): pid=40 /app/data/state/agents/default/sessions/d8fac072-76b7-4abb-a000-0ac3b959a593.jsonl.lock (timeout) | groq/llama-3.1-8b-instant: No API key found for provider "groq". Auth store: /app/data/state/agents/default/agent/auth-profiles.json (agentDir: /app/data/state/agents/default/agent). Configure auth for this agent (openclaw agents add <id>) or copy auth-profiles.json from the main agentDir. (auth)
+Tue Mar 10 22:25:24 MSK 2026: [SUCCESS] Synthesis task spawned.
+Tue Mar 10 22:25:43 MSK 2026: SUCCESS - Test post 18042037907758021
