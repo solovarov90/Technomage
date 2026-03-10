@@ -14,8 +14,8 @@ else
     LAST_POST_TIME=0
 fi
 
-# 3 hours = 10800 seconds
-INTERVAL=10800
+# 2 hours = 7200 seconds
+INTERVAL=7200
 DIFF=$((NOW - LAST_POST_TIME))
 
 if [ $DIFF -ge $INTERVAL ]; then
