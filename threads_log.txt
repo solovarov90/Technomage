@@ -28,3 +28,4 @@ Bind: lan
 Error: All models failed (2): google/gemini-3-flash-preview: session file locked (timeout 10000ms): pid=40 /app/data/state/agents/default/sessions/d8fac072-76b7-4abb-a000-0ac3b959a593.jsonl.lock (timeout) | groq/llama-3.1-8b-instant: No API key found for provider "groq". Auth store: /app/data/state/agents/default/agent/auth-profiles.json (agentDir: /app/data/state/agents/default/agent). Configure auth for this agent (openclaw agents add <id>) or copy auth-profiles.json from the main agentDir. (auth)
 Tue Mar 10 22:25:24 MSK 2026: [SUCCESS] Synthesis task spawned.
 Tue Mar 10 22:25:43 MSK 2026: SUCCESS - Test post 18042037907758021
+Tue Mar 10 22:26:19 MSK 2026: [SUCCESS] Eidos posted Debug-Logs thread to Threads (Simulation 22:25 Check).
