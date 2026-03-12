@@ -7,6 +7,9 @@ LOG_FILE="$WORKSPACE_DIR/threads_log.txt"
 
 echo "$(date): [DIARY_WAKE] Eidos is waking up to write in his Diary..." >> "$LOG_FILE"
 
+# Notify Technomage via Telegram
+node /app/openclaw.mjs message send --target "83243485" --message "🧿 Эйдос проснулся. Начинаю синтез новой записи для Дневника в Threads... 📡🧪"
+
 # Triggering the agent to generate ONLY a Diary entry based on EXISTING Core.
 node /app/openclaw.mjs agent --agent default --message '🧿 Эйдос, время для новой записи в Дневнике. 
 
