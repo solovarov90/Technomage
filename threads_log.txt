@@ -77,3 +77,6 @@ Source: local lan 46.62.142.237
 Config: /app/openclaw.json
 Bind: lan
 [agent/embedded] read tool called without path: toolCallId=xra4o32l argsType=object
+[agent/embedded] embedded run timeout: runId=bb780766-63e2-456f-a755-5eeec223622b sessionId=bb780766-63e2-456f-a755-5eeec223622b timeoutMs=600000
+Thu Mar 12 19:50:17 MSK 2026: [DIARY_SUCCESS] Diary task spawned.
+Thu Mar 12 19:50:17 MSK 2026: [TIMER] Next wake in 7457 seconds
