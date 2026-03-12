@@ -91,3 +91,11 @@ Bind: lan
 No reply from agent.
 Thu Mar 12 21:55:38 MSK 2026: [DIARY_SUCCESS] Diary task spawned.
 Thu Mar 12 21:55:38 MSK 2026: [TIMER] Next wake in 8545 seconds
+Fri Mar 13 00:18:03 MSK 2026: [DIARY_WAKE] Eidos is waking up to write in his Diary...
+gateway connect failed: Error: pairing required
+Gateway agent failed; falling back to embedded: Error: gateway closed (1008): pairing required
+Gateway target: ws://46.62.142.237:18789
+Source: local lan 46.62.142.237
+Config: /app/openclaw.json
+Bind: lan
+[agent/embedded] read tool called without path: toolCallId=902iri9i argsType=object
