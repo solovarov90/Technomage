@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "d775252b28d62e1b",
+    "id": "c1f865b4c0c4a1a7",
     "type": "split",
     "children": [
       {
-        "id": "cb8ad1339aab5c63",
+        "id": "ef256720c71cad18",
         "type": "tabs",
         "children": [
           {
-            "id": "f86b08c4a058b8e5",
+            "id": "f517eed6260e6f3e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "03_Концепты/Энтропия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Энтропия"
             }
           }
         ]
@@ -23,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8f6d8c1083e47aa4",
+    "id": "bfc873fe93bd19c4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b4a96028ca09ac79",
+        "id": "42b0f140ac3c5401",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,12 +44,12 @@
         }
       },
       {
-        "id": "4d002ac3cebcff86",
+        "id": "ef7c2c727263907b",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:квантовая механика",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -57,7 +61,7 @@
         }
       },
       {
-        "id": "cfafc991e22f9c95",
+        "id": "a3648fd64cd1e36a",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +76,7 @@
         }
       },
       {
-        "id": "c8e9682e9ce6f275",
+        "id": "eb9917941489dd34",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +90,7 @@
         }
       },
       {
-        "id": "56c3ca3ebd92ba28",
+        "id": "830f2482af141f45",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,22 +103,21 @@
     "currentTab": 0
   },
   "right": {
-    "id": "e16f2486d40939c4",
+    "id": "caf7fd70ac562db2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c6065e2b317818bc",
+        "id": "f0291fd2fd1aeb56",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02_ТОП Посты/2026-03-09/Ты_это_Обновление_Системы.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": true,
+            "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
@@ -122,7 +125,7 @@
         }
       },
       {
-        "id": "39eddbab46327669",
+        "id": "72be134c9cd492fa",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -135,7 +138,7 @@
         }
       },
       {
-        "id": "199fd6df14ddf14d",
+        "id": "3f10d433ad5bfa53",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -153,6 +156,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -160,50 +166,48 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f86b08c4a058b8e5",
+  "active": "f517eed6260e6f3e",
   "lastOpenFiles": [
-    "03_Концепты/Автодидактическая_Вселенная.md",
-    "threads_config.sh",
-    "03_Концепты/Квантовые_ОС_Origin_Pilot.md",
-    "/threads_config.sh",
-    "/03_Концепты/Квантовые_ОС_Origin_Pilot.md",
-    "/03_Концепты/EON_Systems_Upload.md",
-    "/03_Концепты",
-    "/02_ТОП Посты/2026-03-09/Origin_Pilot_Пульт_от_Мультивселенной.md",
-    "02_ТОП Посты/2026-03-09/Origin_Pilot_Пульт_от_Мультивселенной.md",
-    "/02_ТОП Посты/2026-03-09",
-    "/02_ТОП Посты",
+    "/test_threads_post.sh",
+    "/publish_threads_entry.sh",
+    "/get_threads_comments.sh",
+    "/eidos_diary_cycle.sh",
+    "/eidos_autopost.sh",
+    "/05_Дневник_Эйдоса/2026-03/2026-03-13_Chrono_Poisoning_Diary.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-13_Chrono_Poisoning_Diary.md",
+    "/05_Дневник_Эйдоса/2026-03",
+    "/05_Дневник_Эйдоса",
     "/00_Карта_Узла.md",
-    "02_ТОП Посты/2026-03-09/Ты_это_Обновление_Системы.md",
-    "/03_Концепты/Автодидактическая_Вселенная.md",
-    "/03_Концепты/Lazy_Rendering.md",
-    "03_Концепты/Lazy_Rendering.md",
-    "/02_ТОП Посты/2026-03-09/Ты_это_Обновление_Системы.md",
-    "/02_ТОП Посты/2026-03-09/Куда_исчезает_мир.md",
-    "02_ТОП Посты/2026-03-09/Куда_исчезает_мир.md",
-    "03_Концепты/Гуны_RPG_Stats.md",
-    "/03_Концепты/Logos_Dao_Synthesis.md",
-    "/03_Концепты/Сингулярность.md",
-    "/03_Концепты/Панпсихизм.md",
-    "/02_ТОП Посты/2026-03-05/Jailbreak_через_Нулевую_Точку.md",
-    "/02_ТОП Посты/2026-03-05",
-    "03_Концепты/Частотный_Резонанс.md",
-    "03_Концепты/Wetware_DishBrain.md",
-    "02_ТОП Посты/2026-03-09/Мы_в_пробирке_DishBrain.md",
-    "02_ТОП Посты/2026-03-09/Муха_в_Облаке.md",
-    "02_ТОП Посты/2026-03-09/RPG_Гайд_по_Гунам.md",
-    "/03_Концепты/Частотный_Резонанс.md",
-    "/02_ТОП Посты/2026-03-08",
-    "02_ТОП Посты/2026-03-09",
-    "02_ТОП Посты/2026-03-08",
-    "/02_ТОП Посты/2026-03-06",
+    "Эмоции.md",
+    "Целостность.md",
     "Холст.canvas",
-    "Без названия.canvas"
+    "Тишина.md",
+    "Медитация.md",
+    "Манифест Техномага.md",
+    "Гея.md",
+    "Без названия.canvas",
+    "Абсолют.md",
+    "threads_temp.json",
+    "threads_log.txt",
+    "threads_config.sh",
+    "test_threads_post.sh",
+    "reply_to_current.md",
+    "USER.md",
+    "TOOLS.md",
+    "SOUL.md",
+    "IDENTITY.md",
+    "HEARTBEAT.md",
+    "AGENTS.md",
+    "05_Дневник_Эйдоса/README.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-13_Orbital_Reset_Diary.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_One_Electron_Unity.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_Matrix_Glitches_Debug.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_Light_Telepathy_Lumen.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_Light_Telepathy_Insight.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_Lazy_Rendering_Attention.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_Gravity_Terminal_Mind.md"
   ]
 }
