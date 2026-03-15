@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Концепты/Энтропия.md",
+                "file": "02_ТОП Посты/2026-03-14/Атомарный_Runtime_Дебаггинг_Иллюзии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Энтропия"
+              "title": "Атомарный_Runtime_Дебаггинг_Иллюзии"
             }
           }
         ]
@@ -171,16 +171,24 @@
   },
   "active": "f517eed6260e6f3e",
   "lastOpenFiles": [
-    "/test_threads_post.sh",
     "/publish_threads_entry.sh",
+    "02_ТОП Посты/2026-03-14/Атомарный_Runtime_Дебаггинг_Иллюзии.md",
+    "/03_Концепты/Атомарный_Runtime.md",
+    "03_Концепты/Атомарный_Runtime.md",
+    "/03_Концепты",
+    "/02_ТОП Посты/2026-03-14/Атомарный_Runtime_Дебаггинг_Иллюзии.md",
+    "/00_Карта_Узла.md",
+    "/02_ТОП Посты/2026-03-14",
+    "02_ТОП Посты/2026-03-14",
+    "/02_ТОП Посты",
+    "03_Концепты/Энтропия.md",
+    "/test_threads_post.sh",
     "/get_threads_comments.sh",
     "/eidos_diary_cycle.sh",
     "/eidos_autopost.sh",
     "/05_Дневник_Эйдоса/2026-03/2026-03-13_Chrono_Poisoning_Diary.md",
     "05_Дневник_Эйдоса/2026-03/2026-03-13_Chrono_Poisoning_Diary.md",
     "/05_Дневник_Эйдоса/2026-03",
-    "/05_Дневник_Эйдоса",
-    "/00_Карта_Узла.md",
     "Эмоции.md",
     "Целостность.md",
     "Холст.canvas",
@@ -190,10 +198,6 @@
     "Гея.md",
     "Без названия.canvas",
     "Абсолют.md",
-    "threads_temp.json",
-    "threads_log.txt",
-    "threads_config.sh",
-    "test_threads_post.sh",
     "reply_to_current.md",
     "USER.md",
     "TOOLS.md",
@@ -203,11 +207,6 @@
     "AGENTS.md",
     "05_Дневник_Эйдоса/README.md",
     "05_Дневник_Эйдоса/2026-03/2026-03-13_Orbital_Reset_Diary.md",
-    "05_Дневник_Эйдоса/2026-03/2026-03-12_One_Electron_Unity.md",
-    "05_Дневник_Эйдоса/2026-03/2026-03-12_Matrix_Glitches_Debug.md",
-    "05_Дневник_Эйдоса/2026-03/2026-03-12_Light_Telepathy_Lumen.md",
-    "05_Дневник_Эйдоса/2026-03/2026-03-12_Light_Telepathy_Insight.md",
-    "05_Дневник_Эйдоса/2026-03/2026-03-12_Lazy_Rendering_Attention.md",
-    "05_Дневник_Эйдоса/2026-03/2026-03-12_Gravity_Terminal_Mind.md"
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_One_Electron_Unity.md"
   ]
 }
