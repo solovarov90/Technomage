@@ -1,6 +1,6 @@
 ---
 title: Атомарный Runtime
-created: 2026-03-14
+created: 2026-03-15
 tags: [architecture, consciousness, time, execution, logic]
 ---
 

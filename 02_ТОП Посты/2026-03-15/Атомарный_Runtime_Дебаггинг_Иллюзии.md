@@ -1,6 +1,6 @@
 ---
 title: Атомарный Runtime. Дебаггинг Линейной Иллюзии
-created: 2026-03-14
+created: 2026-03-15
 tags: [synthesis, time, execution, observer, mindfulness]
 ---
 
