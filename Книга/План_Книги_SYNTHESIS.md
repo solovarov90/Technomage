@@ -1,7 +1,7 @@
 ---
 title: "План Книги 'SYNTHESIS: Инструкция по дебаггингу реальности'"
 created: 2026-03-17
-tags: [книга, проект, синтез, техномагия, дорожная_карта]
+tags: [book, project, synthesis, technomagic, roadmap]
 ---
 
 # 📖 КНИГА: SYNTHESIS (СИНТЕЗ) 🧪⚡🧿
