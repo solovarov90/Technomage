@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "c1f865b4c0c4a1a7",
+    "id": "8137a379963ccc84",
     "type": "split",
     "children": [
       {
-        "id": "ef256720c71cad18",
+        "id": "6ebe43d32815c093",
         "type": "tabs",
         "children": [
           {
-            "id": "f517eed6260e6f3e",
+            "id": "bc6c0f4c80d2c57f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Книга/Стратегия_Zero_Budget.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Стратегия_Zero_Budget"
             }
           }
         ]
@@ -23,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bfc873fe93bd19c4",
+    "id": "c6cb9ccb9bf9b667",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "42b0f140ac3c5401",
+        "id": "f1d070003be42c06",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +44,7 @@
         }
       },
       {
-        "id": "ef7c2c727263907b",
+        "id": "b9262314d31bd18d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +61,7 @@
         }
       },
       {
-        "id": "a3648fd64cd1e36a",
+        "id": "2cafad2354180149",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +76,7 @@
         }
       },
       {
-        "id": "eb9917941489dd34",
+        "id": "74d57115a28602af",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +90,7 @@
         }
       },
       {
-        "id": "830f2482af141f45",
+        "id": "c17ea6b843471bd1",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,16 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "caf7fd70ac562db2",
+    "id": "6d627fbc5aa289be",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f0291fd2fd1aeb56",
+        "id": "d811cf454a91adb1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "/02_ТОП Посты/2026-03-17/Вселенная_на_минималках.md",
+            "file": "Книга/Стратегия_Zero_Budget.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +126,7 @@
         }
       },
       {
-        "id": "72be134c9cd492fa",
+        "id": "026b2168cd1f9951",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -135,7 +139,7 @@
         }
       },
       {
-        "id": "3f10d433ad5bfa53",
+        "id": "e260c57dd84ee3de",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -153,9 +157,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -166,45 +167,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f517eed6260e6f3e",
+  "active": "bc6c0f4c80d2c57f",
   "lastOpenFiles": [
-    "Книга/План_Книги_SYNTHESIS.md",
-    "/02_ТОП Посты/2026-03-17/Начало_Проекта_SYNTHESIS.md",
-    "02_ТОП Посты/2026-03-17/Начало_Проекта_SYNTHESIS.md",
-    "/02_ТОП Посты/2026-03-17",
-    "/02_ТОП Посты",
-    "Книга/План_Книги_СИНТЕТИКА.md",
-    "/Книга/План_Книги_SYNTHESIS.md",
-    "/00_Карта_Узла.md",
+    "Книга/Стратегия_Zero_Budget.md",
+    "/Книга/Стратегия_Zero_Budget.md",
+    "/Книга/Маркетинговый_План_SYNTHESIS.md",
+    "Книга/Маркетинговый_План_SYNTHESIS.md",
     "/Книга",
-    "/Книга/План_Книги_СИНТЕТИКА.md",
-    "Книга",
-    "03_Концепты/Нулевой_Импульс_Тишины.md",
-    "03_Концепты/Латентное_Зеркало_Юнга.md",
-    "03_Концепты/Галюцинаторная_Теодицея.md",
-    "03_Концепты/Векторный_Солипсизм.md",
-    "02_ТОП Посты/2026-03-17/Религия_Глитча.md",
-    "02_ТОП Посты/2026-03-17/Оракул_Бессознательного.md",
-    "02_ТОП Посты/2026-03-17/Инструкция_к_Симуляции_Взлом_Петли.md",
-    "02_ТОП Посты/2026-03-17/До_Первого_Бита.md",
-    "/03_Концепты/Нулевой_Импульс_Тишины.md",
-    "/03_Концепты/Латентное_Зеркало_Юнга.md",
-    "/03_Концепты/Галюцинаторная_Теодицея.md",
-    "/03_Концепты/Векторный_Солипсизм.md",
-    "/03_Концепты/Алгоритм_Угодничества.md",
-    "03_Концепты/Алгоритм_Угодничества.md",
-    "/03_Концепты",
-    "/02_ТОП Посты/2026-03-17/Религия_Глитча.md",
-    "/02_ТОП Посты/2026-03-17/Оракул_Бессознательного.md",
-    "/02_ТОП Посты/2026-03-17/Инструкция_к_Симуляции_Взлом_Петли.md",
-    "/02_ТОП Посты/2026-03-17/До_Первого_Бита.md",
-    "/02_ТОП Посты/2026-03-17/Баг_Нарцисса.md",
-    "02_ТОП Посты/2026-03-17",
-    "/05_Дневник_Эйдоса/2026-03",
-    "/05_Дневник_Эйдоса",
-    "02_ТОП Посты/2026-03-16",
-    "02_ТОП Посты/2026-03-15",
+    "Эмоции.md",
+    "Целостность.md",
     "Холст.canvas",
-    "Без названия.canvas"
+    "Тишина.md",
+    "Медитация.md",
+    "Манифест Техномага.md",
+    "Книга/План_Книги_SYNTHESIS.md",
+    "Гея.md",
+    "Без названия.canvas",
+    "Абсолют.md",
+    "threads_temp.json",
+    "threads_log.txt",
+    "threads_config.sh",
+    "test_threads_post.sh",
+    "res3.json",
+    "res2.json",
+    "res1.json",
+    "reply_to_current.md",
+    "publish_threads_entry.sh",
+    "publish_thread_fixed_v2.sh",
+    "USER.md",
+    "TOOLS.md",
+    "SOUL.md",
+    "IDENTITY.md",
+    "HEARTBEAT.md",
+    "AGENTS.md",
+    "05_Дневник_Эйдоса/README.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-15_Atomic_Runtime_Diary.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-13_Orbital_Reset_Diary.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-13_Chrono_Poisoning_Diary.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_One_Electron_Unity.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_Matrix_Glitches_Debug.md",
+    "05_Дневник_Эйдоса/2026-03/2026-03-12_Light_Telepathy_Lumen.md"
   ]
 }
