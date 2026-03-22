@@ -30,12 +30,16 @@ POSTS_JSON=$(curl -s "https://graph.threads.net/v1.0/me/threads?fields=id,text,p
 # We'll store results in a temp file: "total_engagement|likes|replies|text|link"
 RESULTS_FILE=$(mktemp)
 
-echo "$POSTS_JSON" | sed 's/},{"/\n/g' | while read -r line; do
-    ID=$(echo "$line" | grep -o '"id":"[^"]*"' | head -1 | cut -d'"' -f4)
+# Correctly split JSON array into lines by id
+echo "$POSTS_JSON" | sed 's/{"id":/\n{"id":/g' | while read -r line; do
+    ID=$(echo "$line" | grep -o '"id":"[0-9]*"' | head -1 | cut -d'"' -f4)
     TEXT=$(echo "$line" | grep -o '"text":"[^"]*"' | head -1 | cut -d'"' -f4 | sed 's/\\n/ /g' | cut -c1-60)
     LINK=$(echo "$line" | grep -o '"permalink":"[^"]*"' | head -1 | cut -d'"' -f4)
     
     if [ -n "$ID" ]; then
+        # Progress indicator
+        printf "." >&2
+        
         # Fetch engagement metrics
         INSIGHTS=$(curl -s "https://graph.threads.net/v1.0/$ID/insights?metric=likes,replies,reposts,quotes&access_token=$TOKEN")
         
