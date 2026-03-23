@@ -1,7 +1,17 @@
 ---
 title: "💎 ARCHON MAXIMUS AUDIT: Архитектура Потока (12.01.1991)"
 created: 2026-03-22
-tags: [разбор, n3, n1, n2, n5, реализация, дебаггинг, ARCHON, VIP, Maximus]
+tags:
+  - разбор
+  - n3
+  - n1
+  - n2
+  - n5
+  - реализация
+  - дебаггинг
+  - ARCHON
+  - VIP
+  - Maximus
 ---
 
 # 💎 ARCHON MAXIMUS AUDIT: АРХИТЕКТУРА ПОТОКА (12.01.1991) 🧿📡🧬🦾
