@@ -1,5 +1,5 @@
 ---
-title: Буфер Тишины (Latency Awareness)
+title: "Буфер Тишины (Latency Awareness)"
 created: 2026-03-24
 tags: [медитация, сознание, IT-метафора, протокол]
 ---
