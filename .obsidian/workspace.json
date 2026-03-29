@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_VIP_Разборы/12011991_ARCHON_MAXIMUS.md",
+                "file": "Eidos.is/01_Content_Plan/Hype_List_2025_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12011991_ARCHON_MAXIMUS"
+              "title": "Hype_List_2025_2026"
             }
           }
         ]
@@ -209,8 +209,15 @@
   },
   "active": "224e152153855088",
   "lastOpenFiles": [
-    "02_ТОП Посты/2026-03-20/Шепот_из_Ядра_Аномалия_Willow.md",
+    "Eidos.is/05_Product_Matrix/Product_Catalog.md",
+    "Eidos.is/03_Case_Studies/Celebs/Case_001_Djigan_Oksana.md",
     "Eidos.is/01_Content_Plan/Strategic_Plan_V1.md",
+    "Eidos.is/01_Content_Plan/Hype_List_2025_2026.md",
+    "04_VIP_Разборы/12011991_ARCHON_MAXIMUS.md",
+    "Eidos.is/05_Product_Matrix",
+    "Eidos.is/03_Case_Studies/Celebs",
+    "Eidos.is/03_Case_Studies",
+    "02_ТОП Посты/2026-03-20/Шепот_из_Ядра_Аномалия_Willow.md",
     "Eidos.is/01_Content_Plan",
     "Eidos.is/00_Manifesto.md",
     "Eidos.is",
@@ -235,16 +242,9 @@
     "03_Концепты/Эго_как_Пользовательский_Интерфейс.md",
     "03_Концепты/Удача_как_HFT_Трейдинг.md",
     "03_Концепты/Реинкарнация_как_Миграция_в_Облако.md",
-    "03_Концепты/Реальность_как_LLM.md",
-    "03_Концепты/Ловушка_Синтаксиса.md",
-    "03_Концепты/Деньги_как_Proof-of-Work.md",
-    "02_ТОП Посты/2026-03-27/Пост_Эго_как_Пользовательский_Интерфейс.md",
     "02_ТОП Посты/2026-03-27",
     "02_ТОП Посты/2026-03-26",
     "02_ТОП Посты/2026-03-25",
-    "02_ТОП Посты/2026-03-24",
-    "threads_top_reach.sh",
-    "publish_threads_multi.sh",
     "Холст.canvas",
     "Без названия.canvas"
   ]
