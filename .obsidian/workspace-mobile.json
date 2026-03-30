@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "ba9f5c785f612836",
+    "id": "0fafd413fd94dbd6",
     "type": "split",
     "children": [
       {
-        "id": "4d73f9aa89352d30",
+        "id": "1c5dd556ea90bc76",
         "type": "tabs",
         "children": [
           {
-            "id": "b283d2ee683610a8",
+            "id": "c60d3fb1ab599052",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03_Концепты/КЕЙС_Директива_Трампа_Раскрытие_UAP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "КЕЙС_Директива_Трампа_Раскрытие_UAP"
             }
           }
         ]
@@ -23,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "10f632aab9441947",
+    "id": "ca5f291faac8af5a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "725ef0c3e49fa703",
+        "id": "956d51328bd19662",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +44,7 @@
         }
       },
       {
-        "id": "a57d1dffca3e390b",
+        "id": "ced09b6084fb84c2",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +61,7 @@
         }
       },
       {
-        "id": "437ced36278e6404",
+        "id": "87f0a00cb96b11b4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +76,7 @@
         }
       },
       {
-        "id": "7d8526e4e8df94be",
+        "id": "6f37309df988ee36",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +90,7 @@
         }
       },
       {
-        "id": "f1742152ad06587d",
+        "id": "bf5f3047184a0b46",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,15 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "cb1abbdaa8b61bf0",
+    "id": "d0dec1ddff6b0e92",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f21cafc7a13425bc",
+        "id": "c6e36760e2a651c5",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "02_ТОП Посты/2026-03-30/Протокол_Архивы_Марса_Старгейт.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,11 +126,12 @@
         }
       },
       {
-        "id": "e549f9977dc657d9",
+        "id": "2fffc0ed0f2245b6",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "02_ТОП Посты/2026-03-30/Протокол_Архивы_Марса_Старгейт.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -134,11 +140,12 @@
         }
       },
       {
-        "id": "576a14deeebe98da",
+        "id": "7c7ad1d3279febdf",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "02_ТОП Посты/2026-03-30/Протокол_Архивы_Марса_Старгейт.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,19 +172,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b283d2ee683610a8",
+  "active": "c60d3fb1ab599052",
   "lastOpenFiles": [
-    "/threads_top_reach.sh",
-    "/publish_threads_multi.sh",
-    "/parse_threads_top.sh",
-    "02_ТОП Посты/2026-03-28/Пост_Приветствие_Манифест_Техномага.md",
-    "/03_Концепты/Архитектура_Техномага_Манифест.md",
-    "03_Концепты/Архитектура_Техномага_Манифест.md",
+    "02_ТОП Посты/2026-03-30/Пост_Концепт_Марс_Старгейт_Исследование.md",
+    "02_ТОП Посты/2026-03-30/Пост_Концепт_Трамп_Раскрытие_UFO.md",
+    "/USER.md",
+    "/03_Концепты/КЕЙС_Директива_Трампа_Раскрытие_UAP.md",
+    "03_Концепты/КЕЙС_Директива_Трампа_Раскрытие_UAP.md",
     "/03_Концепты",
-    "/02_ТОП Посты/2026-03-28/Пост_Приветствие_Манифест_Техномага.md",
-    "/02_ТОП Посты/2026-03-28",
-    "02_ТОП Посты/2026-03-28",
+    "/02_ТОП Посты/2026-03-30/Протокол_Архивы_Марса_Старгейт.md",
+    "/02_ТОП Посты/2026-03-30/Пост_Концепт_Трамп_Раскрытие_UFO.md",
+    "/02_ТОП Посты/2026-03-30/Пост_Концепт_Марс_Старгейт_Исследование.md",
+    "/02_ТОП Посты/2026-03-30",
+    "/02_ТОП Посты/2026-03-29/Протокол_Старгейт_Взлом_Сервера_Времени.md",
+    "/02_ТОП Посты/2026-03-29/Протокол_Оптимизация_Рендеринга_Внимание.md",
+    "/02_ТОП Посты/2026-03-29/Протокол_Кайрос_Взлом_Задержки.md",
+    "/02_ТОП Посты/2026-03-29",
     "/02_ТОП Посты",
+    "/00_Карта_Узла.md",
+    "02_ТОП Посты/2026-03-30/Протокол_Архивы_Марса_Старгейт.md",
     "Эмоции.md",
     "Целостность.md",
     "Холст.canvas",
@@ -195,15 +208,9 @@
     "threads_temp.json",
     "threads_log.txt",
     "threads_config.sh",
+    "test_threads_post.sh",
+    "res3.json",
     "reply_to_current.md",
-    "USER.md",
-    "TOOLS.md",
-    "SOUL.md",
-    "IDENTITY.md",
-    "HEARTBEAT.md",
-    "AGENTS.md",
-    "05_Дневник_Эйдоса/README.md",
-    "05_Дневник_Эйдоса/2026-03/2026-03-15_Atomic_Runtime_Diary.md",
-    "05_Дневник_Эйдоса/2026-03/2026-03-13_Orbital_Reset_Diary.md"
+    "USER.md"
   ]
 }
