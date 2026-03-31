@@ -11,14 +11,10 @@
             "id": "224e152153855088",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_ТОП Посты/2026-03-30/Пост_Концепт_Марс_Старгейт_Исследование.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Пост_Концепт_Марс_Старгейт_Исследование"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -209,10 +205,14 @@
   },
   "active": "224e152153855088",
   "lastOpenFiles": [
+    "02_ТОП Посты/2026-03-30/Пост_Концепт_Марс_Старгейт_Исследование.md",
+    "03_Концепты/КЕЙС_Эксперимент_Фраучигера_Реннера.md",
+    "03_Концепты/КЕЙС_Контакт_с_Китом_SETI.md",
+    "02_ТОП Посты/2026-03-30/Пост_Концепт_Разговор_с_Китом_SETI.md",
+    "02_ТОП Посты/2026-03-30/Пост_Концепт_Крах_Объективной_Реальности.md",
     "02_ТОП Посты/2026-03-30/Пост_Концепт_Трамп_Раскрытие_UFO.md",
     "Eidos.is/02_Posts/Synthesis/2026-03-29/Synthesis_002_Blinovskaya_System_Ban.md",
     "03_Концепты/КЕЙС_Директива_Трампа_Раскрытие_UAP.md",
-    "02_ТОП Посты/2026-03-30/Пост_Концепт_Марс_Старгейт_Исследование.md",
     "03_Концепты/КЕЙС_Марс_Старгейт_1984.md",
     "02_ТОП Посты/2026-03-30/Протокол_Архивы_Марса_Старгейт.md",
     "02_ТОП Посты/2026-03-30",
@@ -233,10 +233,6 @@
     "Eidos.is/02_Posts/Synthesis/2026-03-29/Synthesis_024_Shnurov_Epatazh_Mask.md",
     "Eidos.is/02_Posts/Synthesis/2026-03-29/Synthesis_023_Simonyan_System_Expansion.md",
     "Eidos.is/02_Posts/Synthesis/2026-03-29/Synthesis_022_Pozner_Stable_Runtime.md",
-    "Eidos.is/02_Posts/Synthesis/2026-03-29/Synthesis_021_Pugacheva_Legacy_Persistence.md",
-    "Eidos.is/02_Posts/Synthesis/2026-03-29/Synthesis_020_Dud_Transparency_Protocol.md",
-    "Eidos.is/02_Posts/Synthesis/2026-03-29/Synthesis_019_Rybakov_Multi_Threading.md",
-    "Eidos.is/02_Posts/Synthesis/2026-03-29/Synthesis_018_Samoylova_Commercial_Facade.md",
     "Eidos.is/02_Posts/Synthesis/2026-03-29",
     "Eidos.is/02_Posts/Synthesis",
     "Eidos.is/02_Posts",
