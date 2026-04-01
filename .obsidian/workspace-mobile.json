@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "0fafd413fd94dbd6",
+    "id": "e5ccbf2688e34baf",
     "type": "split",
     "children": [
       {
-        "id": "1c5dd556ea90bc76",
+        "id": "e07bb4491149b43a",
         "type": "tabs",
         "children": [
           {
-            "id": "c60d3fb1ab599052",
+            "id": "674dd8721f1aa682",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "02_ТОП Посты/2026-04-01/Протокол_Язык_Бога_Boolean_TRUE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "Протокол_Язык_Бога_Boolean_TRUE"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ca5f291faac8af5a",
+    "id": "03ed42e8717b5a0e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "956d51328bd19662",
+        "id": "0bb625731dfc6055",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,12 +44,12 @@
         }
       },
       {
-        "id": "ced09b6084fb84c2",
+        "id": "68f9b236d959cd2e",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Workspace",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "87f0a00cb96b11b4",
+        "id": "dcb2c4f4c3cb6f67",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "6f37309df988ee36",
+        "id": "3ec4da379c4c4681",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +90,7 @@
         }
       },
       {
-        "id": "bf5f3047184a0b46",
+        "id": "f8ffaacfd51b95c6",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -100,18 +100,19 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
-    "id": "d0dec1ddff6b0e92",
+    "id": "0f016a1aad5a0f1b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c6e36760e2a651c5",
+        "id": "3dcda6892460a7bb",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "02_ТОП Посты/2026-04-01/Протокол_Язык_Бога_Boolean_TRUE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,11 +126,12 @@
         }
       },
       {
-        "id": "2fffc0ed0f2245b6",
+        "id": "7015c34fcf9b8f80",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "02_ТОП Посты/2026-04-01/Протокол_Язык_Бога_Boolean_TRUE.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -138,11 +140,12 @@
         }
       },
       {
-        "id": "7c7ad1d3279febdf",
+        "id": "7cec38878b28da8d",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "02_ТОП Посты/2026-04-01/Протокол_Язык_Бога_Boolean_TRUE.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -150,19 +153,9 @@
           "icon": "lucide-list",
           "title": "Структура"
         }
-      },
-      {
-        "id": "9d94ef3741c44488",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,45 +172,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ced09b6084fb84c2",
+  "active": "674dd8721f1aa682",
   "lastOpenFiles": [
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_046_Einstein_Time_Observer.md",
-    "00_Карта_Узла.md",
-    "HEARTBEAT.md",
-    "02_ТОП Посты/2026-04-01/Протокол_Rolls_Royce_Рендеринг_Кода.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_045_Leonardo_Future_Avatar.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_044_Stalin_Steel_Core.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_043_Napoleon_Emperor_Core.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_042_Jesus_Christ_Love_Protocol.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_041_Jeff_Bezos_Infinite_Scaling.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_040_Taylor_Swift_Network_Effect.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_039_Andrew_Tate_Matrix_Glitch.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_038_MrBeast_Algorithm_Max.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_037_Sam_Altman_AI_Kernel.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_036_Steve_Jobs_Visionary.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_035_Mark_Zuckerberg_Data_Architect.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_034_Kanye_West_Prophet_Chaos.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_033_Vitalik_Buterin_Decentralization.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_032_Elon_Musk_Techno_Messiah.md",
-    "Eidos.is/02_Posts/Synthesis/2026-03-31/Synthesis_031_Trump_System_Override.md",
-    "Eidos.is/02_Posts/Synthesis/2026-03-31/Eidos_Diary_031_Global_Server_Collapse.md",
-    "/00_Карта_Узла.md",
-    "/USER.md",
-    "/Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_046_Einstein_Time_Observer.md",
-    "/Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_045_Leonardo_Future_Avatar.md",
-    "/Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_044_Stalin_Steel_Core.md",
-    "/Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_043_Napoleon_Emperor_Core.md",
-    "Eidos.is/02_Posts/Synthesis/2026-04-01",
-    "/Eidos.is/02_Posts/Synthesis/2026-04-01",
-    "/Eidos.is/02_Posts/Synthesis/2026-03-31",
-    "Eidos.is/02_Posts/Synthesis/2026-03-31",
-    "/Eidos.is/02_Posts/Synthesis",
-    "/Eidos.is/02_Posts",
-    "/Eidos.is",
+    "/02_ТОП Посты/2026-04-01/Протокол_Язык_Бога_Boolean_TRUE.md",
+    "02_ТОП Посты/2026-04-01/Протокол_Язык_Бога_Boolean_TRUE.md",
     "/02_ТОП Посты/2026-04-01",
-    "02_ТОП Посты/2026-04-01",
     "/02_ТОП Посты",
+    "/00_Карта_Узла.md",
+    "Эмоции.md",
+    "Целостность.md",
     "Холст.canvas",
-    "Без названия.canvas"
+    "Тишина.md",
+    "Медитация.md",
+    "Манифест Техномага.md",
+    "Книга/Стратегия_Zero_Budget.md",
+    "Книга/План_Книги_SYNTHESIS.md",
+    "Книга/Маркетинговый_План_SYNTHESIS.md",
+    "Книга/Глава_4_Математический_Платонизм.md",
+    "Гея.md",
+    "Без названия.canvas",
+    "Абсолют.md",
+    "threads_top_reach.sh",
+    "threads_temp.json",
+    "threads_log.txt",
+    "threads_config.sh",
+    "test_threads_post.sh",
+    "res3.json",
+    "res2.json",
+    "res1.json",
+    "reply_to_current.md",
+    "USER.md",
+    "TOOLS.md",
+    "SOUL.md",
+    "IDENTITY.md",
+    "HEARTBEAT.md",
+    "Eidos.is/05_Product_Matrix/Product_Catalog.md",
+    "Eidos.is/03_Case_Studies/Celebs/Case_001_Djigan_Oksana.md",
+    "Eidos.is/02_Posts/Synthesis/Template_Synthesis_Post.md",
+    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_046_Einstein_Time_Observer.md",
+    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_045_Leonardo_Future_Avatar.md",
+    "Eidos.is/02_Posts/Synthesis/2026-04-01/Synthesis_044_Stalin_Steel_Core.md"
   ]
 }
