@@ -11,10 +11,14 @@
             "id": "224e152153855088",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "02_ТОП Посты/2026-04-01/Пост_Бойцовский_Клуб_Убей_Будду.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пост_Бойцовский_Клуб_Убей_Будду"
             }
           }
         ]
@@ -203,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62e49de8d504691e",
+  "active": "224e152153855088",
   "lastOpenFiles": [
     "02_ТОП Посты/2026-04-03/Лунное_Зеркало_Дебаггинг_Отражающего_Слоя.md",
     "02_ТОП Посты/2026-04-03/Код_1_3_Лунный_Глитч.md",
