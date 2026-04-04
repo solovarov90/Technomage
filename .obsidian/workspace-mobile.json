@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Гайды/Техномагия/Root_Awareness_Guide.md",
+                "file": "03_Концепты/Protocol_Root_Awareness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root_Awareness_Guide"
+              "title": "Protocol_Root_Awareness"
             }
           }
         ]
@@ -174,10 +174,14 @@
   },
   "active": "674dd8721f1aa682",
   "lastOpenFiles": [
-    "02_ТОП Посты/2026-04-03/Lunar_Mirror.md",
     "01_Гайды/Техномагия/Root_Awareness_Guide.md",
-    "/01_Гайды/Техномагия/Root_Awareness_Guide.md",
+    "/02_ТОП Посты/2026-04-04/Offer_Root_Awareness.md",
+    "02_ТОП Посты/2026-04-04/Offer_Root_Awareness.md",
+    "/02_ТОП Посты/2026-04-04",
+    "/02_ТОП Посты",
     "/00_Карта_Узла.md",
+    "02_ТОП Посты/2026-04-03/Lunar_Mirror.md",
+    "/01_Гайды/Техномагия/Root_Awareness_Guide.md",
     "/03_Концепты/Protocol_Root_Awareness.md",
     "03_Концепты/Protocol_Root_Awareness.md",
     "/03_Концепты",
@@ -191,9 +195,7 @@
     "/02_ТОП Посты/2026-04-03/Lunar_Glitch_13.md",
     "/02_ТОП Посты/2026-04-03/Helios_Patch.md",
     "/02_ТОП Посты/2026-04-03",
-    "/02_ТОП Посты/2026-04-04",
     "02_ТОП Посты/2026-04-04",
-    "/02_ТОП Посты",
     "02_ТОП Посты/2026-04-03/Helios_Patch.md",
     "02_ТОП Посты/2026-04-01/Протокол_Язык_Бога_Boolean_TRUE.md",
     "02_ТОП Посты/2026-04-03/Лунное_Зеркало_Дебаггинг_Отражающего_Слоя.md",
@@ -208,8 +210,6 @@
     "02_ТОП Посты/2026-04-01/Пост_Бойцовский_Клуб_Убей_Будду.md",
     "/02_ТОП Посты/2026-04-01",
     "/02_ТОП Посты/2026-04-01/Протокол_Язык_Бога_Boolean_TRUE.md",
-    "Эмоции.md",
-    "Целостность.md",
     "Холст.canvas",
     "Без названия.canvas"
   ]
