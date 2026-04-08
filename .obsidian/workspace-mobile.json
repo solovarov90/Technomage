@@ -13,12 +13,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
                 "aRef": ""
               },
               "icon": "git-pull-request",
-              "title": "Diff: data.json"
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ]
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "674dd8721f1aa682",
+  "active": "0bb625731dfc6055",
   "lastOpenFiles": [
     "03_Концепты/Protocol_Root_Awareness.md",
     "Eidos.is/02_Posts/Synthesis/2026-04-04/Steve_Jobs_Synthesis.md",
